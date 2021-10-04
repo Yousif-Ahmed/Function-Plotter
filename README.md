@@ -3,15 +3,20 @@
 Function-Plotter is a GUI Python application, it hepls you to plot any function with maximum and minimum limit for the value of x 
 
 ##  :computer: requirements installation
+
+```shell
 pip install PySide2
 pip install pytest
-
+```
 ##  To run the application
+
+```shell
 python main.py
-
+```
 ##  To run the test
+```shell
 pytest test.py
-
+```
 ## :camera: SCREEN SHOOTS
 <h1 align= "center">
  <img src="ScreenShots/Plotting.png">
