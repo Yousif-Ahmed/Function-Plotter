@@ -1,8 +1,9 @@
 # Function-Plotter
+##  :computer: Description
+Function-Plotter is a GUI Python application, it hepls you to plot any function with maximum and minimum limit for the value of x 
 
 
-
-# SCREEN SHOOTS
+## :camera: SCREEN SHOOTS
 <h1 align= "center">
  <img src="ScreenShots/Plotting.png">
 
